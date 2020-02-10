@@ -1,0 +1,8 @@
+C:\Users\1005943823\source\repos\Sort\Sort\bin\Debug\netstandard2.0\Sort.deps.json
+C:\Users\1005943823\source\repos\Sort\Sort\bin\Debug\netstandard2.0\Sort.dll
+C:\Users\1005943823\source\repos\Sort\Sort\bin\Debug\netstandard2.0\Sort.pdb
+C:\Users\1005943823\source\repos\Sort\Sort\obj\Debug\netstandard2.0\Sort.csprojAssemblyReference.cache
+C:\Users\1005943823\source\repos\Sort\Sort\obj\Debug\netstandard2.0\Sort.AssemblyInfoInputs.cache
+C:\Users\1005943823\source\repos\Sort\Sort\obj\Debug\netstandard2.0\Sort.AssemblyInfo.cs
+C:\Users\1005943823\source\repos\Sort\Sort\obj\Debug\netstandard2.0\Sort.dll
+C:\Users\1005943823\source\repos\Sort\Sort\obj\Debug\netstandard2.0\Sort.pdb
