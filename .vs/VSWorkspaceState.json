@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Sort",
+    "\\SortingTest"
   ],
-  "SelectedNode": "\\Sorting.cs",
+  "SelectedNode": "\\SortingTest\\SortingTest.sln",
   "PreviewInSolutionExplorer": false
 }
