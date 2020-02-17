@@ -121,8 +121,5 @@ namespace Sort
 			// Recursively calling selection sort function 
 			RecurisveSelection(a, n, index + 1);
 		}
-
-		// Driver Code 
-
 	}
 }
