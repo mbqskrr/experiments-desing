@@ -7,6 +7,34 @@ namespace SortTest
     [TestClass]
     public class SortingTest
     {
+        int[] arr;
+
+        [TestMethod]
+        public void SetUpScenary() 
+        {
+            //double num = Math.Pow(10, 2);
+            arr = new int[Convert.ToInt64(Math.Pow(10, 1))];
+
+        }
+
+        [TestMethod]
+        public void SetUpScenary1()
+        {
+            arr = new int[Convert.ToInt64(Math.Pow(10, 2))];
+        }
+
+        [TestMethod]
+        public void SetUpScenary2()
+        {
+            arr = new int[Convert.ToInt64(Math.Pow(10, 3))];
+        }
+
+        [TestMethod]
+        public void SetUpScenary3()
+        {
+            arr = new int[Convert.ToInt64(Math.Pow(10, 4))];
+        }
+
         [TestMethod]
         public void BubbleTest()
         {

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1005943823\\source\\repos\\Sort\\Sort\\Sort.csproj": {}
+    "C:\\Users\\MANUEL BALANTA\\source\\repos\\experiments-desing\\Sort\\Sort\\Sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1005943823\\source\\repos\\Sort\\Sort\\Sort.csproj": {
+    "C:\\Users\\MANUEL BALANTA\\source\\repos\\experiments-desing\\Sort\\Sort\\Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1005943823\\source\\repos\\Sort\\Sort\\Sort.csproj",
+        "projectUniqueName": "C:\\Users\\MANUEL BALANTA\\source\\repos\\experiments-desing\\Sort\\Sort\\Sort.csproj",
         "projectName": "Sort",
-        "projectPath": "C:\\Users\\1005943823\\source\\repos\\Sort\\Sort\\Sort.csproj",
-        "packagesPath": "C:\\Users\\1005943823\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1005943823\\source\\repos\\Sort\\Sort\\obj\\",
+        "projectPath": "C:\\Users\\MANUEL BALANTA\\source\\repos\\experiments-desing\\Sort\\Sort\\Sort.csproj",
+        "packagesPath": "C:\\Users\\MANUEL BALANTA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MANUEL BALANTA\\source\\repos\\experiments-desing\\Sort\\Sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\1005943823\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MANUEL BALANTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

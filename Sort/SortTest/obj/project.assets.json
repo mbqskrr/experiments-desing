@@ -6891,19 +6891,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\1005943823\\.nuget\\packages\\": {}
+    "C:\\Users\\MANUEL BALANTA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1005943823\\source\\repos\\Sort\\SortTest\\SortTest.csproj",
+      "projectUniqueName": "C:\\Users\\MANUEL BALANTA\\source\\repos\\experiments-desing\\Sort\\SortTest\\SortTest.csproj",
       "projectName": "SortTest",
-      "projectPath": "C:\\Users\\1005943823\\source\\repos\\Sort\\SortTest\\SortTest.csproj",
-      "packagesPath": "C:\\Users\\1005943823\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1005943823\\source\\repos\\Sort\\SortTest\\obj\\",
+      "projectPath": "C:\\Users\\MANUEL BALANTA\\source\\repos\\experiments-desing\\Sort\\SortTest\\SortTest.csproj",
+      "packagesPath": "C:\\Users\\MANUEL BALANTA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MANUEL BALANTA\\source\\repos\\experiments-desing\\Sort\\SortTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\1005943823\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MANUEL BALANTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6916,8 +6916,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\1005943823\\source\\repos\\Sort\\Sort\\Sort.csproj": {
-              "projectPath": "C:\\Users\\1005943823\\source\\repos\\Sort\\Sort\\Sort.csproj"
+            "C:\\Users\\MANUEL BALANTA\\source\\repos\\experiments-desing\\Sort\\Sort\\Sort.csproj": {
+              "projectPath": "C:\\Users\\MANUEL BALANTA\\source\\repos\\experiments-desing\\Sort\\Sort\\Sort.csproj"
             }
           }
         }
@@ -6963,7 +6963,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

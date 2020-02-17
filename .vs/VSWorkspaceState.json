@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Sort",
-    "\\SortingTest"
+    "\\Sort\\Sort",
+    "\\Sort\\SortTest"
   ],
-  "SelectedNode": "\\SortingTest\\SortingTest.sln",
+  "SelectedNode": "\\Sort\\SortTest\\SortingTest.cs",
   "PreviewInSolutionExplorer": false
 }

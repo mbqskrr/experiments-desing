@@ -6,3 +6,11 @@ C:\Users\1005943823\source\repos\Sort\Sort\obj\Debug\netstandard2.0\Sort.Assembl
 C:\Users\1005943823\source\repos\Sort\Sort\obj\Debug\netstandard2.0\Sort.AssemblyInfo.cs
 C:\Users\1005943823\source\repos\Sort\Sort\obj\Debug\netstandard2.0\Sort.dll
 C:\Users\1005943823\source\repos\Sort\Sort\obj\Debug\netstandard2.0\Sort.pdb
+C:\Users\MANUEL BALANTA\source\repos\experiments-desing\Sort\Sort\bin\Debug\netstandard2.0\Sort.deps.json
+C:\Users\MANUEL BALANTA\source\repos\experiments-desing\Sort\Sort\bin\Debug\netstandard2.0\Sort.dll
+C:\Users\MANUEL BALANTA\source\repos\experiments-desing\Sort\Sort\bin\Debug\netstandard2.0\Sort.pdb
+C:\Users\MANUEL BALANTA\source\repos\experiments-desing\Sort\Sort\obj\Debug\netstandard2.0\Sort.csprojAssemblyReference.cache
+C:\Users\MANUEL BALANTA\source\repos\experiments-desing\Sort\Sort\obj\Debug\netstandard2.0\Sort.AssemblyInfoInputs.cache
+C:\Users\MANUEL BALANTA\source\repos\experiments-desing\Sort\Sort\obj\Debug\netstandard2.0\Sort.AssemblyInfo.cs
+C:\Users\MANUEL BALANTA\source\repos\experiments-desing\Sort\Sort\obj\Debug\netstandard2.0\Sort.dll
+C:\Users\MANUEL BALANTA\source\repos\experiments-desing\Sort\Sort\obj\Debug\netstandard2.0\Sort.pdb
