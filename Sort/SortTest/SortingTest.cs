@@ -89,7 +89,7 @@ namespace SortTest
             }
         }
 
-        [TestMethod]
+        /*[TestMethod]
         public void BubbleTest3()
         {
             for (int k = 0; k < 1000; k++)
@@ -97,7 +97,7 @@ namespace SortTest
                 SetUpScenary3();
                 Sorting.Bubble();
             }
-        }
+        }*/
 
         [TestMethod]
         public void RecursiveBubbleTest()
@@ -129,7 +129,7 @@ namespace SortTest
             }
         }
 
-        [TestMethod]
+        /*[TestMethod]
         public void RecursiveBubbleTest3()
         {
             for (int k = 0; k < 1000; k++)
@@ -138,7 +138,7 @@ namespace SortTest
                 Sorting.RecursiveBubble(arr, arr.Length);
             }
             
-        }
+        }*/
 
         [TestMethod]
         public void SelectionSort() 
@@ -150,6 +150,7 @@ namespace SortTest
             }
         }
 
+        [TestMethod]
         public void SelectionSort1()
         {
             for (int j = 0; j < 1000; j++)
@@ -159,6 +160,7 @@ namespace SortTest
             }
         }
 
+        [TestMethod]
         public void SelectionSort2()
         {
             for (int j = 0; j < 1000; j++)
@@ -168,6 +170,7 @@ namespace SortTest
             }
         }
 
+        [TestMethod]
         public void SelectionSort3()
         {
             for (int j = 0; j < 1000; j++)
